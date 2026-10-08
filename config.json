@@ -1,0 +1,10 @@
+{
+  "fail_on": "HIGH",
+  "beta_severity": "MEDIUM",
+  "empty_vulnerabilities_severity": "HIGH",
+  "duplicate_hash_severity": "MEDIUM",
+  "missing_purl_severity": "LOW",
+  "osv_enabled": true,
+  "kev_enabled": true,
+  "epss_enabled": true
+}
